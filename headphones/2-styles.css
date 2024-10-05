@@ -87,7 +87,7 @@ nav img {
 }
 .results_section {
     background-image: url('./images/headphones_hero_2.jpg');
-    /* background-size: 90vh; */
+    background-size: cover;
 }
 .results_section h1 {
     text-align: center;
@@ -108,8 +108,8 @@ nav img {
 }
 .pentagone {
     position: relative;
-    width: 200px; /* Adjust as needed */
-    height: 200px; /* Adjust as needed */
+    width: 200px; 
+    height: 200px; 
   }
   
   .pentagone img {

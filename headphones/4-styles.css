@@ -108,8 +108,8 @@ nav img {
 }
 .pentagone {
     position: relative;
-    width: 200px; 
-    height: 200px; 
+    width: 200px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
   }
   
   .pentagone img {
@@ -180,4 +180,23 @@ nav img {
 .contact_section button:hover {
     background-color: #FF6565;
     opacity: 0.9;
+}
+.footer_section {
+    background-color: rgb(6, 6, 33);
+    height: 20vh;
+    color: white;
+    padding-top: 70px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+.footer img {
+    height: 20px;
+}
+.footer_section p {
+    text-align: center;
+    margin-top: 55px;
+    font-size: 10px;
+    opacity: 0.5;
 }
